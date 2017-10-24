@@ -12,6 +12,7 @@ The code in this repository will collect all the resource information from a spe
 and deploy an identical Project in another Cluster. It provides an option to delete the original Project
 after the migration is complete. This is intended as a framework for similar automation workflows. The 
 OpenShift Project that was used in this example is available [here](https://github.com/tahonen/tigerinapod).
+A much more detailed description of this is avaiable on the [TigerIQ blog](http://www.tigeriq.co/cross-cluster-migrations/).
 
 
 
