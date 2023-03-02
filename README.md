@@ -29,3 +29,4 @@ The automation should be triggered by a Service Catalog Item with a dialog that 
 * dialog_project_name: This is the name of the project to be migrated
 * delete_original: If this is set to "true" the original Project will be deleted upon completion of the migration
 
+test
